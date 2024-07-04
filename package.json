@@ -1,0 +1,24 @@
+{
+  "name": "simple-atm-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+   "dev": "parcel src/index.html"
+
+
+  
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "parcel-bundler": "^1.12.5"
+  },
+  "keywords": [],
+  "description": ""
+}
